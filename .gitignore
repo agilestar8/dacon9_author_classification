@@ -1,0 +1,17 @@
+## ignore ##
+
+.ipynb_checkponts
+
+build
+
+input
+
+src
+
+Makefile
+
+sample_submission
+
+text_X
+
+train
