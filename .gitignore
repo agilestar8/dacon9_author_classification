@@ -1,6 +1,6 @@
 ## ignore ##
 
-.ipynb_checkponts
+.ipynb_checkponts/*
 
 build
 
