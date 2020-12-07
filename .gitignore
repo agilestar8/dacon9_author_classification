@@ -10,8 +10,8 @@ src
 
 Makefile
 
-sample_submission
+sample_submission.csv
 
-text_X
+text_X.csv
 
-train
+train.csv
